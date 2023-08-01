@@ -1,0 +1,19 @@
+{
+  "name": "husky-commitlint-translate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MatheusNunesBoraso/husky-commitlint-translate.git",
+  "author": "Matheus Nunes Boraso <matheusnunesbrasil@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.7",
+    "@commitlint/config-conventional": "^17.6.7",
+    "husky": "^8.0.0"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "bing-translate-api": "^2.9.1"
+  }
+}
