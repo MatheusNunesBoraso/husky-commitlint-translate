@@ -1,4 +1,4 @@
-![](https://i.ibb.co/hDmkdVM/wallpaper-new.jpg#vitrinedev)
+![](https://i.ibb.co/ZXLrqgm/wallpaper-fix.jpg#vitrinedev)
 
 ## Detalhes do projeto
 
