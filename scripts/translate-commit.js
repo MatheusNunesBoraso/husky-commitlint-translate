@@ -9,7 +9,10 @@ async function main() {
 
   await translate(String(commitMessage), null, "en")
     .then((res) => {
-      console.log("Tradução:", res.translation);
+      console.log("");
+      console.log("ⓘ   original: ", commitMessage);
+      console.log("✔   translation: ", res.translation);
+      console.log("");
       fs.writeFileSync(
         commitMessagePath,
         res.translation.toLocaleLowerCase(),
@@ -17,7 +20,9 @@ async function main() {
       );
     })
     .catch((err) => {
-      console.error("Erro ao traduzir mensagem:", err);
+      console.log("");
+      console.error("✖   error:", err);
+      console.log("");
     });
 }
 

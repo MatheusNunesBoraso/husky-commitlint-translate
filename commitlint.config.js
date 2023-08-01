@@ -40,7 +40,7 @@ module.exports = {
         description: "Select the type of change that you're committing",
         enum: {
           feat: {
-            description: "A new feature9",
+            description: "A new features",
             title: "Features",
             emoji: "✨",
           },
