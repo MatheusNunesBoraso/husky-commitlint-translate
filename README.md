@@ -1,3 +1,8 @@
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **husky-commitlint-translate**
+| :label: Tecnologias | shell, javascript (tecnologias utilizadas)
+
 ![](https://i.ibb.co/ZXLrqgm/wallpaper-fix.jpg#vitrinedev)
 
 ## Detalhes do projeto
