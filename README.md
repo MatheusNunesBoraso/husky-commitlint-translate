@@ -1,4 +1,6 @@
-# husky-commitlint-translate
+![](https://i.ibb.co/hDmkdVM/wallpaper-new.jpg#vitrinedev)
+
+## Detalhes do projeto
 
 O projeto husky-commitlint-translate visa facilitar e padronizar o processo de commits em projetos de desenvolvimento por meio do uso do Commitlint, Husky e um tradutor automático. O objetivo é fornecer uma ferramenta que garanta a consistência nas mensagens de commit e facilite a colaboração entre desenvolvedores de diferentes idiomas.
 
