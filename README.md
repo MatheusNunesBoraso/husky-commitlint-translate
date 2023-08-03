@@ -50,7 +50,7 @@ npm install bing-translate-api
 Execute o seguinte comando no terminal:
 
 ```bash
-npx husky add .husky/commit-msg 'npx --no -- commitlint --edit "$1"'
+npx husky-init; npx husky add .husky/commit-msg 'npx --no -- commitlint --edit "$1"'
 ```
 
 ### Passo 6: _translate-commit.js_
